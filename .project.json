@@ -1,0 +1,23 @@
+{
+  "mockpreview": {
+    "mockUri": "/sap/opu/odata/sap/EPM_REF_APPS_SHOP_SRV/",
+    "loadCustomRequests": true,
+    "loadJSONFiles": true,
+    "metadataFilePath": "model/metadata.xml",
+    "mockRequestsFilePath": ""
+  },
+  "linter": {
+    "ESLintNewApproach": true,
+    "ESLintCustomBaseFile": ".eslintrc",
+    "ESLintRulesDirectory": ".eslintrules",
+    "ESLintPluginName": "",
+    "ESLintPluginFile": ""
+  },
+  "generation": [
+    {
+      "templateId": "fiorireferenceapps.shop",
+      "templateVersion": "1.0.1",
+      "dateTimeStamp": "Thu, 24 Sep 2015 04:57:45 GMT"
+    }
+  ]
+}
